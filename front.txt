@@ -1,0 +1,13 @@
+Font: detail page, comments, in image
+MyPorjectName: Content Hub
+I want: HTML, Tailwind, blade, frontend, page in image
+About project:  Content Hub is a platform that organizes and connects author content, genres, and categories. It allows easy searching, browsing, and analyzing of digital materials such as articles, videos, and podcasts. Ideal for creative archives, educational platforms, and media hubs where content classification and relationships matter.
+Styles:
+
+Примените дизайн-принципы Material Design / Apple Human Interface / Fluent Design к этому сайту. Логику и структуру не изменяйте.
+
+Улучшите UX-дизайн на основе принципов Jakob Nielsen (ясность, обратная связь, минимальная когнитивная нагрузка). Только внешний вид.
+
+Улучшите читаемость, контраст и взаимодействие элементов, используя дизайнерские best practices. Логика остается неизменной.
+
+Сделай интерфейс визуально привлекательным и современным, основываясь на принципах иерархии, выравнивания и повторения

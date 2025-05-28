@@ -1,0 +1,4 @@
+ 1. SELECT authors.id, authors.name as name, authors.url, contents.title, contents.description, categories.name as category, genres.name as genre  FROM author_content LEFT JOIN authors ON authors.id = author_content.author_id LEFT JOIN contents ON contents.id = author_content.content_id LEFT JOIN categories ON categories.id = contents.category_id LEFT JOIN content_genres ON author_content.content_id = content_genres.content_id LEFT JOIN genres ON content_genres.genre_id = genres.id;
+
+
+1. Зделает так чтобы вывелось все жанры данного автора и и полная связки
